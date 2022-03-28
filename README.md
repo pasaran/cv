@@ -1,4 +1,14 @@
-# CV
+# Sergei Nikitin
+
+## About
+
+  * More than 20 years of experience in web development.
+  * Specialize in building complex interactive web applications.
+  * Expertise in performance optimization of web applications (rendering, loading, js speed).
+  * Development of UI components, tools and libraries.
+  * Deep knowledge of JavaScript, TypeScript, Node.js, HTML, CSS, DOM, Ajax, React, Redux, Webpack.
+  * Many years of tech leadership.
+
 
 ## Experience
 
@@ -10,7 +20,7 @@ I had to reorganize the existing team and to replace old php/jquery codebase wit
 
 Responsibilities:
 
-  * Team management (replacing team members, hiring new people, teaching, 1-on-1).
+  * Team (15-20 people) management: replacing team members, hiring new people, teaching, 1-on-1.
   * Talking/teaching about new technologies to our team.
   * Planning our work together with other teams (design, backend, testing).
   * Choosing proper technologies, libraries, tools and incorporating them into our dev process.
@@ -57,4 +67,10 @@ I worked as a html/css coder in several web companies.
 ## Education
 
   * Omsk State University, 1991-1996, master's degree in mathematics
+
+
+## Links
+
+  * [https://www.linkedin.com/in/knopsh][www.linkedin.com/in/knopsh]
+  * [https://github.com/pasaran][https://github.com/pasaran]
 
