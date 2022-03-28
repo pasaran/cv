@@ -71,6 +71,6 @@ I worked as a html/css coder in several web companies.
 
 ## Links
 
-  * [https://www.linkedin.com/in/knopsh][www.linkedin.com/in/knopsh]
-  * [https://github.com/pasaran][https://github.com/pasaran]
+  * [https://www.linkedin.com/in/knopsh](www.linkedin.com/in/knopsh)
+  * [https://github.com/pasaran](https://github.com/pasaran)
 
